@@ -1,0 +1,39 @@
+{
+    "nom": "Clark",
+    "prenom": "Kent",
+    "dateNaiss":"1900-11-12",
+    "mois": "2016-03",
+    "courriel":"superman@gmail.com",
+    "contrat": "B",
+    "dossier":"B19001112", 
+    "reclamations": [
+        {
+            "soin": 100,
+            "date": "2016-03-07",
+            "montant": "200.00$",
+            "medecin": "COD1279"
+        },
+        {
+            "soin": 0,
+            "date": "2016-03-15",
+            "montant": "200.00$",
+            "medecin": "MHD0219"
+        },
+        {
+            "soin": 200,
+            "date": "2016-03-25",
+            "montant": "80.00$",
+            "medecin": "KMP1290"
+        },
+        {
+            "soin": 500,
+            "date": "2016-03-18",
+            "montant": "200.00$",
+            "medecin": "KOG0972"
+        }
+    ],
+    "_comment": "le Contrat B couvre le soin 100 à 50% pour un max de 50$",
+    "_comment": "Le contrat B couvre le soin 0 à 50% pour un max de 40$",
+    "_comment": "Le contrat B couvre le soin 200 à 100%",
+    "_comment": "le Contrat B couvre le soin 500 à 50% pour un max de 50$"
+}
