@@ -34,7 +34,7 @@
  - Maven 3.6.3
  - Java 11
  - Java(TM) SE Runtime Environment (JDK15);
- - JUnit 4.0
+ - JUnit 4.0.
 
 
 	
